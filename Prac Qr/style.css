@@ -1,0 +1,32 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+  body{
+    background:black;
+  }
+  .container{
+    width:100%;
+  }
+  #qrImage{
+  
+      transform: rotate(45deg);
+      position:absolute;
+      justify-content: center;
+      align-items: center;
+      left: 26%;
+      width: 600px;
+      height: 600px;
+      top: 61%;
+  
+  }
+  .container.img {
+    height: 2000px;
+    width: 2000px;
+    background: black;
+    justify-content: center;
+    align-items: center;
+    /* display: flex; */
+  }
+  
+  
